@@ -3,7 +3,7 @@ import requests
 import json
 from urllib import parse
 
-# url = "http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule"
+url = "http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule"
 
 # Form_Data = {}
 # Form_Data['type'] = 'AUTO'
