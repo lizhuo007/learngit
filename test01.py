@@ -5,7 +5,7 @@ from urllib import parse
 
 url = "http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule"
 
-# Form_Data = {}
+Form_Data = {}
 # Form_Data['type'] = 'AUTO'
 # Form_Data['i'] = '今天'
 # Form_Data['doctype'] = 'json'
